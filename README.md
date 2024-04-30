@@ -27,3 +27,7 @@ Ryan is Principal Data Scientist at H2O.ai.  He is a Kaggle double grandmaster w
 
 **Ted Kyi** \
 Ted is VP of Data Science for Deep Sentinel.  He is a Kaggle competitions expert.  Ted has a degree in computer science and has been participating in Kaggle competitions for seven years. He has extremely strong technical and practical skills, and he is skillful at simplifying and teaching complicated concepts intuitively and rigorously.
+
+## FAQ
+We have started to build a FAQ as questions have come in.  Please see the separate [FAQ document](./FAQ.md) for additional information.
+
